@@ -1,0 +1,101 @@
+*{
+    border: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+.img-uno{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    height:30rem;
+    max-width: 100%;
+    position: relative
+}
+
+.img-uno {
+    background-image: url(imag-png/depilacion\ laser-chicas.jpg);
+    text-align: center;
+}
+
+.texto-interior {
+    color:black;
+    font-size: 2rem;
+    /* font-weight: bold; */
+    left: 10%;
+    position: absolute;
+    text-align: center;
+    top:40%;
+    width: 80%
+}
+
+.texto {
+    padding: 10%;
+    width: 90%;
+}
+
+h3 {
+    text-align: center;
+    margin: 20px;
+}
+
+p {
+   font-size: 1.4rem;
+   margin:0 0 24px 0
+}
+
+
+.menu-conteiner {
+    text-align: center;
+
+}
+
+.menu {
+    background-color: rgba(253, 190, 190, 0.603);
+    height: 100px;
+    margin-bottom: initial;
+}
+
+
+li {
+    align-items: center;
+    display: inline-block;
+    
+    margin: 40px;
+    gap: 0.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(42, 42, 42);
+    font-size: 16px;
+
+}
+
+iframe {
+    width: 100%;
+}
+
+.container-blog {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.container {
+    background-color: rgba(253, 190, 190, 0.603);
+    height: 100%;
+    padding: 50px 20px;
+    display: flow;
+    max-width: none;
+}
+
+ol {
+    height: 30px;
+    display: math;
+    /* margin: 30px; */
+}
+
+
