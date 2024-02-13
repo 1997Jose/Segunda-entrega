@@ -45,25 +45,38 @@ p {
    margin:0 0 24px 0
 }
 
-.nabvar-xpande-lg {
+.navbar-expand-lg {
     display: flex;
     background-color: rgba(253, 190, 190, 0.603);
+    justify-content: space-around;
+    padding: 0;
+}
+
+.container-fluid {
+    display: flex;
+}
+
+
+.collapse {
+    align-items: center;
     justify-content: space-around;
 }
 
 button {
-    color: blueviolet;
     padding: 20px;
-    justify-content: center;
     display: flex;
-    position: relative;
-    top: 30px;
-    left: 30px;
 }
+
 
 .nabvar-nav {
     display: flex;
     justify-content: center;
+}
+
+.logo-svg{
+    display: flex;
+    width: 80px;
+    height: 80px;
 }
 
 li {
