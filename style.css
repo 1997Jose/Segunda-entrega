@@ -114,4 +114,17 @@ ol {
     /* margin: 30px; */
 }
 
+/* Login */
+
+.cont-form {
+    width: max-content;
+    padding: 15vh;
+    margin: auto;
+    max-width: none;
+}
+
+.conteiner-form {
+    display: flex;
+    justify-content: center;
+}
 
